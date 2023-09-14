@@ -1,0 +1,28 @@
+---
+published: false
+---
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Nắng tràn vào bàn làm việc.
+
+Vệt nắng lúc dài lúc ngắn, lúc đậm lúc nhạt không theo một quy luật nào, thật tự nhiên. Ngồi đó thật yên, đôi lúc bạn và tôi chỉ cần nhìn chậm lại, thật chú tâm, nhìn thật rõ tường chi tiết của khung cảnh, của vật thể đó - chúng ta sẽ thấy được sự mầu nhiệm.
+
+Dầu vậy giây phút đó thật ngắn ngủi, cả bạn và tôi đều từng trải qua những giây phút vi tế đó nhưng phần lớn cái thực tại mà ở đó công việc và suy nghĩ là quan trọng kéo cả bạn và tôi về, rồi chúng ta lại quay cuồng với nó.
+
+Một đoạn trích trong quyển "Tuyết giữa mùa hè" của Ngài Sayadaw U Jortika mà tôi đang đọc và rất thích:
+
+Sati (chánh niệm) sự hiện diện của tâm, hoặc sự ý thức về chính mình. Đó là sự hay biết bất cứ những gì đang diễn ra trong hiện tại mà không có bất cứ một định kiến nào.
+
+Điều quan trọng nhất là hay biết về chính tâm mình.
+
+Chánh niệm là một phần bản chất của chúng ta. Nó có thể được phát triển một cách tự nhiên và dễ dàng. 
+
+Điều duy nhất bạn kinh nghiệm trực tiếp được là tâm, bao gồm các suy nghĩ, cảm xúc - tình cảm, thái độ... Tất cả mọi thứ khác chỉ là suy diễn. Ngay cả khi bạn nhìn xuống hai bàn tay mình và cho rằng mình nhìn thấy hình dáng, màu sắc của nó, mỗi việc đó thôi cũng đã phải đi qua rất nhiều công đoạn. Làm thế nào để thấy được hình dáng và màu sắc? Cài gì là hình dáng? Và cái gì là màu sắc?
+
+Tuyết giữa mùa hè - Ngài Sayadaw U Jortika
+
+Bạn có thể thử như Ngài U Jortika, bạn cũng sẽ có cảm giác, khi chú tâm vào một vật hay sự việc gì đó ở bên ngoài, hay khi nhìn vào khoảng giữa của sự nhận thức và thân thể này, bạn sẽ cảm nhận được một dòng năng lượng hay một trạng thái rỗng không mà nhẹ tênh.
+
+Tôi đang thực hành nhìn tâm mình và bạn có đang như vậy không?
+
