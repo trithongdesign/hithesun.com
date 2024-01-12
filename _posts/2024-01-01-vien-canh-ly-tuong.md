@@ -1,10 +1,8 @@
 ---
----
 layout: post
 title: viễn cảnh lý tưởng
 categories: log
 published: true
----
 ---
 
 Trong quyển Kỹ Năng Buông Bỏ của Leo Babauta mà em [Quốc Anh]([url](https://leqa.xyz/)) có giới thiệu mình mấy hôm trước có nói về khái niệm "những viễn cảnh lý tưởng". Đó là những dòng suy tưởng và luôn mong cầu mọi việc phải diễn ra theo ý của mình hoặc theo những tưởng tượng của mình, mà gần như đa phần nó là hoàn hảo là luôn trọn vẹn khi nghĩ về.
