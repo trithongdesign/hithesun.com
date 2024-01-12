@@ -1,8 +1,13 @@
 ---
-published: false
 ---
-Một chuyến Cảm Nghiệm
-Trong quyển Kỹ Năng Buông Bỏ của Leo Babauta mà em Quốc Anh có giới thiệu mình mấy hôm trước có nói về khái niệm "những viễn cảnh lý tưởng". Đó là những dòng suy tưởng và luôn mong cầu mọi việc phải diễn ra theo ý của mình hoặc theo những tưởng tượng của mình, mà gần như đa phần nó là hoàn hảo là luôn trọn vẹn khi nghĩ về.
+layout: post
+title: viễn cảnh lý tưởng
+categories: log
+published: true
+---
+---
+
+Trong quyển Kỹ Năng Buông Bỏ của Leo Babauta mà em [Quốc Anh]([url](https://leqa.xyz/)) có giới thiệu mình mấy hôm trước có nói về khái niệm "những viễn cảnh lý tưởng". Đó là những dòng suy tưởng và luôn mong cầu mọi việc phải diễn ra theo ý của mình hoặc theo những tưởng tượng của mình, mà gần như đa phần nó là hoàn hảo là luôn trọn vẹn khi nghĩ về.
 
 Ấy vậy mà, nó đâu có dễ dàng đến vậy và đa phần đều là những tham cầu vi tế len lỏi vào và xây dựng nên.
 Giả sử tui có một cái điện thoại không quá xuất sắc, flagship… nhưng nó đủ dùng và tui dùng nó để giải quyết mọi công việc hằng ngày của tui. Không một chút vấn đề. 
