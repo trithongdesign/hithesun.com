@@ -19,7 +19,9 @@ Thay vào đó, nếu nhận ra sớm hơn về điều này, tui chỉ cần c�
 Vậy nên, tui vẫn đang thực tập nhận diện ra các viễn cảnh lý tưởng sinh khởi mỗi ngày và chỉ đơn giản là buông bỏ nó.
 
 Hãy hít thở, hãy là bản thân mình ngay tại đây.
+
 Là đủ tốt rồi
+
 T.
 001/365
 
